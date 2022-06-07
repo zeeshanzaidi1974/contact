@@ -131,8 +131,7 @@ body {
 .card {
     min-width: 500px;
     min-height: 200px;
-    background-color: white;
-    
+    background-color: white;  
     margin: 20px;
     padding: 10px;
     display: flex;
